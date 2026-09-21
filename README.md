@@ -8,7 +8,7 @@ I work where Flutter meets the platform underneath — engine embedders, native 
 
 **[flutterwatch](https://github.com/flutterwatch/flutter-watchos)** — A Flutter embedder for Apple Watch: run your Flutter apps on watchOS. → [flutterwatch.dev](https://flutterwatch.dev)
 
-**48 plugins on pub.dev** under [fluttertv.dev](https://pub.dev/publishers/fluttertv.dev/packages) and [flutterwatch.dev](https://pub.dev/publishers/flutterwatch.dev/packages) — video_player, sqflite, shared_preferences, secure storage, geolocator, sensors, the Firebase suite and more — with 200,000+ downloads a month.
+**tvOS & watchOS implementations of 48 Flutter plugins** — federated platform packages that bring popular plugins (video_player, sqflite, shared_preferences, secure storage, geolocator, sensors, Firebase and more) to Apple TV and Apple Watch. Published on pub.dev under [fluttertv.dev](https://pub.dev/publishers/fluttertv.dev/packages) and [flutterwatch.dev](https://pub.dev/publishers/flutterwatch.dev/packages), with 200,000+ downloads a month.
 
 ## Other projects
 
