@@ -17,8 +17,6 @@ I work where Flutter meets the platform underneath — engine embedders, native 
 - **[flutterwatch-plugins-showcase](https://github.com/MAUstaoglu/flutterwatch-plugins-showcase)** — the flutterwatch plugins running together on Apple Watch
 - **[synced_page_views](https://github.com/MAUstaoglu/synced_page_views)** — synchronized, bidirectional PageViews for Flutter
 
-
-
 ## Links
 
 [LinkedIn](https://www.linkedin.com/in/aliustaoglu/) · [fluttertv.dev](https://fluttertv.dev) · [flutterwatch.dev](https://flutterwatch.dev)
