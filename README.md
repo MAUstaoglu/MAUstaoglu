@@ -1,6 +1,6 @@
 # Hi, I'm Mehmet Ali 👋
 
-Flutter engineer with 8 years of Flutter. I work mostly where Flutter meets the platform underneath — custom engine embedders, native plugins in Swift, Objective-C and Kotlin, and media playback.
+I work where Flutter meets the platform underneath — engine embedders, native plugins and media playback.
 
 ## What I build
 
@@ -16,12 +16,8 @@ Flutter engineer with 8 years of Flutter. I work mostly where Flutter meets the 
 - **[crown-breaker](https://github.com/MAUstaoglu/crown-breaker)** — a Digital Crown brick-breaker for Apple Watch
 - **[flutterwatch-plugins-showcase](https://github.com/MAUstaoglu/flutterwatch-plugins-showcase)** — the flutterwatch plugins running together on Apple Watch
 - **[synced_page_views](https://github.com/MAUstaoglu/synced_page_views)** — synchronized, bidirectional PageViews for Flutter
-- **[Ludigen](https://ludigen.dev)** — an AI EdTech product that turns lesson material into curriculum-grounded learning games
 
 
-## Tech
-
-Flutter · Dart · Swift · Objective-C · Kotlin · C · TypeScript · React · Firebase · LLM integration · MCP
 
 ## Links
 
