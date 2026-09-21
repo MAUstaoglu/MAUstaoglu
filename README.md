@@ -4,9 +4,9 @@ Flutter engineer with 8 years of Flutter. I work mostly where Flutter meets the 
 
 ## What I build
 
-**[flutter-tvos](https://github.com/fluttertv/flutter-tvos)** — Flutter for Apple TV. A real tvOS platform embedder, a drop-in CLI that works alongside the Flutter SDK, focus-based Siri Remote input, wireless device debugging and automated plugin porting. → [fluttertv.dev](https://fluttertv.dev)
+**[flutter-tvos](https://github.com/fluttertv/flutter-tvos)** — A Flutter embedder for Apple TV: run your Flutter apps on tvOS. → [fluttertv.dev](https://fluttertv.dev)
 
-**[flutterwatch](https://github.com/flutterwatch/flutter-watchos)** — Flutter on Apple Watch, through a custom C embedder with software rendering and a lightweight text-input system. → [flutterwatch.dev](https://flutterwatch.dev)
+**[flutterwatch](https://github.com/flutterwatch/flutter-watchos)** — A Flutter embedder for Apple Watch: run your Flutter apps on watchOS. → [flutterwatch.dev](https://flutterwatch.dev)
 
 **48 plugins on pub.dev** under [fluttertv.dev](https://pub.dev/publishers/fluttertv.dev/packages) and [flutterwatch.dev](https://pub.dev/publishers/flutterwatch.dev/packages) — video_player, sqflite, shared_preferences, secure storage, geolocator, sensors, the Firebase suite and more — with 200,000+ downloads a month.
 
