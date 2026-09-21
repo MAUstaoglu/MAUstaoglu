@@ -18,10 +18,6 @@ Flutter engineer with 8 years of Flutter. I work mostly where Flutter meets the 
 - **[synced_page_views](https://github.com/MAUstaoglu/synced_page_views)** — synchronized, bidirectional PageViews for Flutter
 - **[Ludigen](https://ludigen.dev)** — an AI EdTech product that turns lesson material into curriculum-grounded learning games
 
-## Talks
-
-- *Build with AI as a Solopreneur: From Idea to MVP* — GDG Kraków, Build with AI, 2026
-- *From Static PDF to Interactive Game: AI-Powered Gamification* — 71st Pan-EU Conference on Digital Education, 2026
 
 ## Tech
 
